@@ -7,3 +7,8 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 - [Lexica.art](https://lexica.art/) - para gerar imagens
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
 
+## ✨ Features
+
+- Conteúdo gerado via ChatGPT
+- Imagens do acervo público geradas via Lexica.art
+
